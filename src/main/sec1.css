@@ -1,0 +1,40 @@
+.section{
+    background: #191919;
+}
+.sec1-box{
+    display: flex;
+    padding: 14px 134px 0 70px;
+}
+.svg1{
+    padding: 0 0 870px 0;
+    position: absolute;
+}
+.sec1-right{
+    color: white;
+    padding: 300px 0 0 60px;
+}
+.sec1-right h1{
+    color: #FFF;
+    font-family: DM Sans, sans-serif;
+    font-size: 70px;
+}
+.sec1-h{
+    display: flex;
+}
+.sec1-h h2{
+    color: #FFF;
+    font-family: DM Sans, sans-serif;
+    font-size: 75px;
+}
+.sec1-h h3{
+    color: #FFF;
+    font-family: DM Sans,sans-serif;
+    font-size: 80px;
+    padding-left: 25px;
+}
+.sec1-right h6{
+    color: #FFF;
+    font-family: DM Sans,sans-serif;
+    font-size: 15px;
+    padding-bottom: 16px;
+}

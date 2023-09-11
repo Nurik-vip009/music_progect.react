@@ -1,0 +1,109 @@
+.sec2{
+    background: #191919;
+}
+.sec2-box{
+    padding: 93px 70px 0 70px;
+}
+.sec2-top{
+    display: flex;
+    justify-content: space-between;
+}
+.sec2-top h1{
+    color: #FFF;
+    font-family: DM Sans,sans-serif;
+    font-size: 64px;
+}
+.sec2-top button{
+    width: 178px;
+    height: 51px;
+    border-radius: 6px;
+    background: #118DA8;
+    color: #FFF;
+    font-family: DM Sans,sans-serif;
+    font-size: 17px;
+    margin-top: 22px;
+}
+.sec2-top-card{
+    display: flex;
+    border-radius: 32px;
+    background: #000;
+    margin: 64px 70px 0 70px;
+}
+.sec2-bottom h5{
+    color: #118DA8;
+    font-family: DM Sans,sans-serif;
+    font-size: 17px;
+    padding: 48px 0 18px 0;
+}
+.btn_1{
+    width: 73px;
+    height: 27px;
+    border-radius: 6px;
+    background: #191919;
+    color: #FFF;
+    font-family: DM Sans,sans-serif;
+    font-size: 18px;
+    margin-top: 48px;
+}
+.sec2-bottom h3{
+    color: #FFF;
+    font-family: DM Sans,sans-serif;
+    font-size: 64px;
+    padding-bottom: 28px;
+}
+.sec2-bottom p{
+    color: rgba(255, 255, 255, 0.70);
+    font-family: DM Sans,sans-serif;
+    font-size: 22px;
+    padding-bottom: 18px;
+}
+.btn_2{
+    width: 208px;
+    height: 51px;
+    border-radius: 6px;
+    background: #118DA8;
+    color: #FFF;
+    font-family: DM Sans,sans-serif;
+    font-size: 18px;
+}
+.sec2-top-card_left{
+    padding: 40px 53px 40px 40px;
+}
+.sec2-center-card{
+    background: black;
+    display: flex;
+    border-radius: 32px;
+    margin: 64px 70px 0 70px;
+}
+.sec2-center-card_left{
+    padding: 40px 53px 40px 40px;
+}
+.btn_3{
+    width: 136px;
+    height: 27px;
+    border-radius: 6px;
+    background: #191919;
+    color: #FFF;
+    font-family: DM Sans,sans-serif;
+    font-size: 18px;
+    margin-top: 48px;
+}
+.sec2-bottom-card{
+    background: black;
+    display: flex;
+    border-radius: 32px;
+    margin: 64px 70px 0 70px;
+}
+.sec2-bottom-card_left{
+    padding: 40px 53px 40px 40px;
+}
+.btn_4{
+    width: 73px;
+    height: 27px;
+    border-radius: 6px;
+    background: #191919;
+    color: #FFF;
+    font-family: DM Sans,sans-serif;
+    font-size: 18px;
+    margin-top: 48px;
+}

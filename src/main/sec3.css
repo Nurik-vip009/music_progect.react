@@ -1,0 +1,35 @@
+.sec3{
+    background: #191919;
+}
+.sec3-box{
+    display: flex;
+    justify-content: space-between;
+    padding: 260px 120px 0 70px;
+}
+.sec3-left{
+    padding: 148px 94px 0 0;
+}
+.sec3-box button{
+    width: 112px;
+    height: 112px;
+    border-radius: 400px;
+    background: #118DA8;
+}
+.sec3-box h5{
+    padding: 20px 0 25px 0;
+    color: #118DA8;
+    font-family: DM Sans,sans-serif;
+    font-size: 18px;
+}
+.sec3-box h1{
+    padding-bottom: 28px;
+    color: #FFF;
+    font-family: DM Sans,sans-serif;
+    font-size: 65px;
+}
+.sec3-box p{
+    color: rgba(255, 255, 255, 0.70);
+    font-family: DM Sans,sans-serif;
+    font-size: 22px;
+    padding-bottom: 33px;
+}
